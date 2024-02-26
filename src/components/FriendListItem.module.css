@@ -14,9 +14,13 @@
 }
 .status {
 	font-size: 20px;
-	color: red;
 }
 
 .statusonline {
+	
 	color: green;
+}
+.statusoffline {
+	
+	color: red;
 }
